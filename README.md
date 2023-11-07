@@ -1,2 +1,1 @@
-# IntroStat01
-Introduction of Statistics
+# Pythonで学ぶ統計学入門
